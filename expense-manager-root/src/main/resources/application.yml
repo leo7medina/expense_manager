@@ -27,3 +27,9 @@ management:
   endpoints:
     web:
       base-path: /api/public/actuator
+springdoc:
+  swagger-ui:
+    path: /api/public/swagger-ui.html
+  api-docs:
+    path: /api/public/api-docs
+  show-actuator: true

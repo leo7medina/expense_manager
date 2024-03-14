@@ -4,7 +4,10 @@
  - Java 17
 
 
-
+## Implementaciones
+- Spring Data JPA
+- OpenApi
+- Swagger
 
 
 ### DATABASE
